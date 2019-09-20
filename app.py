@@ -27,8 +27,6 @@ def callback():
        sendText(user,'ดีจ้าาา')
     elif (userText == 'ทำไรอยู่') :
         sendText(user,'นอน')
-    elif (userText == 'ทำไรอยู่') :
-        sendText(user,'อ่านหนังสือ')
     else :
         sendText(user,'งงจ้า')
 
